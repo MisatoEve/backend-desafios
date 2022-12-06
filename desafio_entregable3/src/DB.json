@@ -11,47 +11,52 @@
     },
     { 
         "id": 2,
-        "name": "samsung s21",
+        "title": "samsung s21",
         "price": 800,
         "category": "celular",
-        "img":  "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155378-phones-review-hands-on-samsung-galaxy-s21-ultra-image1-luae09ici4.JPG",
+        "thumbnail":  "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155378-phones-review-hands-on-samsung-galaxy-s21-ultra-image1-luae09ici4.JPG",
         "stock": 16,
-        "description": "Descripcion de Samsung s21"
+        "description": "Descripcion de Samsung s21",
+        "code": "102"
     },
     { 
         "id": 3,
-        "name": "Ipad 8va generacion",
+        "ntitle": "Ipad 8va generacion",
         "price": 1200,
         "category": "tablet",
-        "img": "https://medias.musimundo.com/medias/00406046-143516-143516-01-143516-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w1MjI1MnxpbWFnZS9qcGVnfGhjMC9oYWMvMTAyODM0OTc0NTU2NDYvMDA0MDYwNDYtMTQzNTE2LTE0MzUxNl8wMS0xNDM1MTZfMDEuanBnX3NpemU1MTV8MzA0NmMzNGFhZjUwMDY2YjY5MjU0MjlkMGJlYWMxODAxZjE5ODJhZmJlOTczZThmZjE2NTQxMjU5NjE2OTA4Yw",
+        "thumbnail": "https://medias.musimundo.com/medias/00406046-143516-143516-01-143516-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w1MjI1MnxpbWFnZS9qcGVnfGhjMC9oYWMvMTAyODM0OTc0NTU2NDYvMDA0MDYwNDYtMTQzNTE2LTE0MzUxNl8wMS0xNDM1MTZfMDEuanBnX3NpemU1MTV8MzA0NmMzNGFhZjUwMDY2YjY5MjU0MjlkMGJlYWMxODAxZjE5ODJhZmJlOTczZThmZjE2NTQxMjU5NjE2OTA4Yw",
         "stock": 10,
-        "description": "Descripcion de Ipad"
+        "description": "Descripcion de Ipad",
+        "code": "103"
     },
     { 
         "id": 4,
-        "name": "Notebook Lenovo 15,6",
+        "title": "Notebook Lenovo 15,6",
         "price": 350,
         "category": "notebook",
-        "img": "https://images.fravega.com/f500/dd73afa92f9434de40d323ea2c74652f.jpg",
+        "thumbnail": "https://images.fravega.com/f500/dd73afa92f9434de40d323ea2c74652f.jpg",
         "stock":  10,
-        "description": "Celeron 500GB 4GB IP3-81WQ00KUAR"
+        "description": "Celeron 500GB 4GB IP3-81WQ00KUAR",
+        "code": "104"
     },
     { 
         "id": 5,
-        "name": "Canon Eos",
+        "title": "Canon Eos",
         "price": 720,
         "category": "camaras",
-        "img": "https://images.fravega.com/f500/a94c3ea9f37fcdb6676b2414cab6195f.jpg",
+        "thumbnail": "https://images.fravega.com/f500/a94c3ea9f37fcdb6676b2414cab6195f.jpg",
         "stock":  10,
-        "description": "Rebel T7 Dslr Color Negro"
+        "description": "Rebel T7 Dslr Color Negro",
+        "code": "105"
     },
     { 
         "id": 6,
-        "name": "Smart TV 4K UHD Samsung 50",
+        "title": "Smart TV 4K UHD Samsung 50",
         "price":  560, 
         "category": "televisores",
-        "img": "https://images.fravega.com/f500/d7ca24bf5639a7db78c31aa9fa963be8.jpg",
+        "thumbnail": "https://images.fravega.com/f500/d7ca24bf5639a7db78c31aa9fa963be8.jpg",
         "stock": 15,  
-        "description": "UN50AU7000"
+        "description": "UN50AU7000",
+        "code": "106"
     }
 ]
