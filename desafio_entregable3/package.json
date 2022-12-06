@@ -1,0 +1,19 @@
+{
+  "name": "desafio_entregable3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-app": "node ./src/Manager/Index.js",
+    "start-server": "nodemon ./src/Index.js",
+    "dev": "nodemon ./src/Index.js"    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
